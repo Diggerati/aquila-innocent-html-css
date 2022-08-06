@@ -2,8 +2,18 @@
     width: 100%;
     position: fixed;
     top: 0;
+    background-color: white;
     display: flex;
     justify-content: space-between;
+}
+
+
+
+#video{
+    margin-top: 200px;
+}
+#form{
+    text-align: center;
 }
 
 
